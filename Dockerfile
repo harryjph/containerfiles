@@ -1,3 +1,3 @@
 FROM alpine:latest
 
-RUN apk add --no-cache zfs syncoid
+RUN apk add --no-cache bash zfs syncoid
