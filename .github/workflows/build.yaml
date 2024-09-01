@@ -13,7 +13,7 @@ jobs:
 
     strategy:
       matrix:
-        image: ["syncoid"]
+        image: ["syncoid", "samba"]
 
     permissions:
       contents: read
